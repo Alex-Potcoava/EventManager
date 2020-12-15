@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Events</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Add_event">Add event</string>
+    <string name="back">Back</string>
+    <string name="choose_title">Name of event</string>
+    <string name="choose_place">Place of event</string>
+    <string name="add_date">Select date</string>
+    <string name="add_hour">Select time</string>
+    <string name="set_date">Date of event</string>
+    <string name="set_hour">Time of event</string>
+    <string name="empty_text">Empty field</string>
+</resources>

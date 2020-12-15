@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Eventos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Add_event">Añadir evento</string>
+    <string name="back">Atrás</string>
+    <string name="choose_title">Nombre del evento</string>
+    <string name="choose_place">Lugar del evento</string>
+    <string name="add_date">Selecciona fecha</string>
+    <string name="add_hour">Selecciona hora</string>
+    <string name="set_date">Fecha del evento</string>
+    <string name="set_hour">Hora del evento</string>
+    <string name="empty_text">Campo vacio</string>
+</resources>
